@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6e2bd459d215ff46fd5f32556645ca033647213ecbec74ec3575feddfaabea9e"
+hash = "2e94b622d7e34c78f24765bc3ca1e18800b7a2fdf57e65171201570478621296"
 
 [[files]]
 file = "servers.dat"
