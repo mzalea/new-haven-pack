@@ -1,2 +1,4 @@
 README.md
-options.txt
+.packwizignore
+/options.txt
+/servers.dat

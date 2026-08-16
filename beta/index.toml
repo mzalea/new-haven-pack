@@ -5,6 +5,14 @@ file = "config/DistantHorizons.toml"
 hash = "dfeda4395b45b7b5a3c09729feadd6cb6e739c11bbe5c8993349f32c9f5b0ffa"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "6df89ee4ffc306e4f4fd5ca478c873dbc31360880c8747752ece3f0fd1071d5d"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "69b0955850b712b36fe7ff49b3522a598f6671e11cff08268a63fdd95fb50bb8"
+
+[[files]]
 file = "config/iris.properties"
 hash = "f82c644ebc106c95152ebb7015a4108b9b607985d4884944bdf7ab6aaa1f5b4d"
 
@@ -170,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "a6967d761dde867ccc1af53dc9f4e530eb9917a9cb21d0fc15708e8cd2c0f2ba"
 metafile = true
 
 [[files]]
@@ -617,10 +630,6 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "69b0955850b712b36fe7ff49b3522a598f6671e11cff08268a63fdd95fb50bb8"
 
 [[files]]
 file = "shaderpacks/sildurs-enhanced-default-shaders.pw.toml"
