@@ -7,3 +7,15 @@
 	showHighVanillaRenderDistanceWarning = false
 	showPoolInsufficientMemoryWarning = false
 	showUpdateQueueOverloadedChatWarning = false
+
+# "Nice but light" defaults: 96-chunk LODs (not 256), lighter resolution, gentle
+# far fog to blend the distant tree blobs. Pairs with vanilla renderDistance 16.
+[client.advanced.graphics.quality]
+	lodChunkRenderDistanceRadius = 96
+	maxHorizontalResolution = "FOUR_BLOCKS"
+	verticalQuality = "MEDIUM"
+
+[client.advanced.graphics.fog]
+	enableDhFog = true
+	farFogStart = "0.85"
+	farFogDensity = "2.5"
