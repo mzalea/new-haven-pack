@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "2e6b7b87f35f8f974c46090da2a2b358eb16fc97598219eda0bea47cfecb5752"
+hash = "79623ff25e01dece568f710457b5a3b315cf36c8e088bcfe0af559ebeda14662"
 
 [[files]]
 file = "config/iris.properties"

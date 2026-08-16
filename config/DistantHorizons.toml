@@ -7,3 +7,12 @@
 	showHighVanillaRenderDistanceWarning = false
 	showPoolInsufficientMemoryWarning = false
 	showUpdateQueueOverloadedChatWarning = false
+
+# Firm up distant tree canopies (less floating-leaf/plank look) + haze the far edge.
+[client.advanced.graphics.quality]
+	verticalQuality = "HIGH"
+
+[client.advanced.graphics.fog]
+	enableDhFog = true
+	farFogStart = "0.5"
+	farFogDensity = "3.0"
