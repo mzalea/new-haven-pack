@@ -8,7 +8,7 @@ entityDistanceScaling:0.75
 biomeBlendRadius:2
 mipmapLevels:4
 entityShadows:true
-fov:0.0
+fov:0.5
 guiScale:0
 soundCategory_master:1.0
 soundCategory_music:0.45
