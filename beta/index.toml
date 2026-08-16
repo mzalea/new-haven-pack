@@ -624,7 +624,7 @@ hash = "bbf88286adaf1e52dc0289204f48425791ed24fb59297384136350d38827d115"
 
 [[files]]
 file = "servers.dat"
-hash = "1e8e8b369d941a332a1d3424c2bc59a5275c813a030301d2a668ab4c138864d8"
+hash = "69b0955850b712b36fe7ff49b3522a598f6671e11cff08268a63fdd95fb50bb8"
 
 [[files]]
 file = "shaderpacks/sildurs-enhanced-default-shaders.pw.toml"
