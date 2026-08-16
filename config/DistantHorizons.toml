@@ -1,21 +1,15 @@
-# New Haven client override: silence Distant Horizons' chat warnings.
+# New Haven client override for Distant Horizons.
+# DH ships INSTALLED BUT DORMANT — rendering off by default. The 1.21.1 beta LODs
+# look rough, so players opt in via DH's settings (Advanced > Debugging > renderer,
+# or F6) when they want it. This is the LAST change we push to this file: keeping it
+# frozen means packwiz won't clobber players' own DH tweaks on future updates.
 # DH merges this with its generated defaults (keys not listed keep DH defaults).
-# The GC warning is also fixed at the root by the ZGC JVM flags on the instance.
+[client.advanced.debugging]
+	rendererMode = "DISABLED"
+
 [common.logging.warning]
 	showGarbageCollectorWarning = false
 	showExplicitGcDisabledWarning = false
 	showHighVanillaRenderDistanceWarning = false
 	showPoolInsufficientMemoryWarning = false
 	showUpdateQueueOverloadedChatWarning = false
-
-# "Nice but light" defaults: 96-chunk LODs (not 256), lighter resolution, gentle
-# far fog to blend the distant tree blobs. Pairs with vanilla renderDistance 16.
-[client.advanced.graphics.quality]
-	lodChunkRenderDistanceRadius = 96
-	maxHorizontalResolution = "FOUR_BLOCKS"
-	verticalQuality = "MEDIUM"
-
-[client.advanced.graphics.fog]
-	enableDhFog = true
-	farFogStart = "0.85"
-	farFogDensity = "2.5"

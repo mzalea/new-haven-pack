@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "2838bc99a33ee89607a16d7cfcda29a9d5d540c197bb46271a92127a09ecf080"
+hash = "dfeda4395b45b7b5a3c09729feadd6cb6e739c11bbe5c8993349f32c9f5b0ffa"
 
 [[files]]
 file = "config/iris.properties"
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ba6899d1d1d55cb7c4b4c6b8ec8df3d61199d5aa34ff663b7211e030df6c5808"
+hash = "6a5d476c153a7707f766dd35e434e13e433597ab23696cf855f7eb5ef5511894"
 
 [[files]]
 file = "servers.dat"
