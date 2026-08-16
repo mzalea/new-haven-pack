@@ -5,8 +5,12 @@ file = "config/DistantHorizons.toml"
 hash = "dfeda4395b45b7b5a3c09729feadd6cb6e739c11bbe5c8993349f32c9f5b0ffa"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "b698ae4e163d81706a5a2409243a1945fa13a198af14769a3df5de97fafb8a59"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
-hash = "6df89ee4ffc306e4f4fd5ca478c873dbc31360880c8747752ece3f0fd1071d5d"
+hash = "bbf88286adaf1e52dc0289204f48425791ed24fb59297384136350d38827d115"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
