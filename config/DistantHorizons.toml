@@ -1,0 +1,9 @@
+# New Haven client override: silence Distant Horizons' chat warnings.
+# DH merges this with its generated defaults (keys not listed keep DH defaults).
+# The GC warning is also fixed at the root by the ZGC JVM flags on the instance.
+[common.logging.warning]
+	showGarbageCollectorWarning = false
+	showExplicitGcDisabledWarning = false
+	showHighVanillaRenderDistanceWarning = false
+	showPoolInsufficientMemoryWarning = false
+	showUpdateQueueOverloadedChatWarning = false

@@ -1,0 +1,13 @@
+name = "Worn Path"
+filename = "worn_path-neoforge-1.5.3+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3XWY8ZZP/versions/xuX2x2d9/worn_path-neoforge-1.5.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "d60f7bb45f15cdfd0fb27517ba6ef9a1a027b52bc8e7fa88142ee48597560e38e17244c27640c81fbbc47fa8e6cebc0eb8ca1b3ea7c0e4b0a8fc0d8e879df401"
+
+[update]
+[update.modrinth]
+mod-id = "3XWY8ZZP"
+version = "xuX2x2d9"

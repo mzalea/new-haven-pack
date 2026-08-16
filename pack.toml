@@ -1,0 +1,13 @@
+name = "New Haven"
+author = "SirZalea"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "92ca1c458587712b864bd594eca948096ff04c7b725e2a95e6e31b3462e8b09c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.235"
