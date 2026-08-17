@@ -636,10 +636,6 @@ hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "07db4b539d2960631a6dc367f9fa650ebd0eec2b04b35a09fee7cf6a8001238b"
-
-[[files]]
 file = "shaderpacks/sildurs-enhanced-default-shaders.pw.toml"
 hash = "721407712770adc0883025c7c990ad176e8f0b35884c2f777d40766496addd25"
 metafile = true
