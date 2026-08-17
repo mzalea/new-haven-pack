@@ -398,6 +398,10 @@ file = "mods/newhaven-core-0.1.0.jar"
 hash = "4e75732ba8cf0b303ce073d5554ce0f4ca3148c4dd173252b62265a03df73a4d"
 
 [[files]]
+file = "mods/newhaven-trees-1.0.0.jar"
+hash = "8175f84258801632ffa3d3b735f60795e0fc9e57a36912422989e0cf224f4802"
+
+[[files]]
 file = "mods/no-night-skip.pw.toml"
 hash = "78e1677952bc1b6878507d54579232e8820adb508dcbdd39bc1674498a7f8974"
 metafile = true
