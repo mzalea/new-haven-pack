@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
+hash = "6828b28c310ae427da625473c55b79eb0c7ca42acc76591948644af0c04e3933"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "ab5ed930794a89f861e2ca4edd30941c9fd7e05bc30c930a4caef645ff792126"
+hash = "4e75732ba8cf0b303ce073d5554ce0f4ca3148c4dd173252b62265a03df73a4d"
 
 [[files]]
 file = "mods/newhaven-trees-1.0.0.jar"
