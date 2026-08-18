@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "9b9d41e7a1f90ff98f45188df2068ea3bf45c53d2704d830bbf030aaae7329b4"
+hash = "39966bdbf0f7a748e6cab68f9d46006df02973edc8f7b96322a60f05a478b967"
 
 [[files]]
 file = "mods/newhaven-trees-1.0.0.jar"
@@ -568,11 +568,6 @@ metafile = true
 [[files]]
 file = "mods/wilder-flowers.pw.toml"
 hash = "9c46d5266eabe8055bb43ae211e671cb680dfd672ed062f64a0147e1d80a0845"
-metafile = true
-
-[[files]]
-file = "mods/worn-path.pw.toml"
-hash = "0152d2f17832b5c0e5851617958b6ce205cfd3f5c8f9300729741acd21d6c7cd"
 metafile = true
 
 [[files]]
