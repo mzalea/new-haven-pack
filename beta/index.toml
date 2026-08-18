@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "39966bdbf0f7a748e6cab68f9d46006df02973edc8f7b96322a60f05a478b967"
+hash = "2d803235c324619372baadf58af7b95794a9ee0a148eeff8239252b683407f60"
 
 [[files]]
 file = "mods/newhaven-trees-1.0.0.jar"
