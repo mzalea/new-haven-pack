@@ -125,11 +125,6 @@ hash = "e1979752a25bce7b7e3d1ca065e534d21c162c5630fe0b5c6ac73b07e0af7bce"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor-reworked-forked.pw.toml"
-hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
-metafile = true
-
-[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "7a7eeb96f8cf82768269855ff837c07fa75daf32a6f560d85f2bf901402d70d3"
 metafile = true
