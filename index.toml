@@ -125,6 +125,11 @@ hash = "e1979752a25bce7b7e3d1ca065e534d21c162c5630fe0b5c6ac73b07e0af7bce"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked-forked.pw.toml"
+hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "7a7eeb96f8cf82768269855ff837c07fa75daf32a6f560d85f2bf901402d70d3"
 metafile = true
@@ -395,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "0d8489cbcf2f06a3ea3340448cac4684e22f22d8b25b71a740f95d4ba386b426"
+hash = "a8bf67d6c7e0d35171e3f2bfff85757f4215afb18ad4a689ddc571b23768d020"
 
 [[files]]
 file = "mods/newhaven-trees-1.0.0.jar"
