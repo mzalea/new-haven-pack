@@ -13,3 +13,6 @@
 	showHighVanillaRenderDistanceWarning = false
 	showPoolInsufficientMemoryWarning = false
 	showUpdateQueueOverloadedChatWarning = false
+
+[client.advanced.autoUpdater]
+	enableAutoUpdater = false

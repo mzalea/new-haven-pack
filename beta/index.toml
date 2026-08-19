@@ -2,7 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "dfeda4395b45b7b5a3c09729feadd6cb6e739c11bbe5c8993349f32c9f5b0ffa"
+hash = "f2b36128536139b2e9f479c08b177551c3b64c0fa1a13c7053b5349e74b475cd"
+
+[[files]]
+file = "config/defaultoptions/extra/config/plasmovoice/client/config.toml"
+hash = "e3d85e231c99682889ce8f476c351b243e06e60d0681791c1d7c8f0229987e53"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaero/minimap/client.cfg"
+hash = "d9d126c87b6ecea7f9a26e18828f133317cb7720c37ff9069ae976c2b9f67dd5"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaero/world-map/client.cfg"
+hash = "d9d126c87b6ecea7f9a26e18828f133317cb7720c37ff9069ae976c2b9f67dd5"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -18,7 +30,7 @@ hash = "69b0955850b712b36fe7ff49b3522a598f6671e11cff08268a63fdd95fb50bb8"
 
 [[files]]
 file = "config/iris.properties"
-hash = "f82c644ebc106c95152ebb7015a4108b9b607985d4884944bdf7ab6aaa1f5b4d"
+hash = "f954c8b36f076c91b79cac4e67fcb4266dca15f0a4253f5b2b084b10659f4218"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
