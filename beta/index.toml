@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/newhaven-backpack-0.1.0.jar"
-hash = "0b805dd9a0bb503c5c270eccfb23fd3b77e1b0ef5051517eec3179c8e65f4a60"
+hash = "d4a83072ced0d71596a2b592c736fd1752603b77126f3bfd9db890f58f140a53"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
@@ -428,7 +428,7 @@ hash = "423bd641f73ebd3b16e55604643e278a2ab0ecc214bb5a3b2edcc75501855f72"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
-hash = "3560db0cacd13a22fb08fc272f1cc68483a5b8426581156777869cd3161d980f"
+hash = "732643a85d2fc9852a3f6d65abe083827da018204b4f4b43c7e7c6663f1871d6"
 
 [[files]]
 file = "mods/newhaven-trees-1.0.0.jar"
