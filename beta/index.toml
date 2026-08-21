@@ -428,7 +428,7 @@ hash = "423bd641f73ebd3b16e55604643e278a2ab0ecc214bb5a3b2edcc75501855f72"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
-hash = "654e9a3665beb59376e6998f7fd3b47698bb66df96acea3ee83e4942c29bae2d"
+hash = "3560db0cacd13a22fb08fc272f1cc68483a5b8426581156777869cd3161d980f"
 
 [[files]]
 file = "mods/newhaven-trees-1.0.0.jar"
@@ -614,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7481488cc878ce36f7cd69acfff4ffcdc24470916692a54798239331934c9a58"
+hash = "69df708c9b3980d96c953eaa0f98a9cb82ce7679872d1364da5ca4c116dc40b1"
 metafile = true
 
 [[files]]
