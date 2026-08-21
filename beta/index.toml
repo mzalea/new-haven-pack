@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "318c96390db6b23f50f5f7dea4db0f8394a47edf96dff25b8a0b241956790114"
+hash = "b06e3a557d5fe63fa8bcb60335eba994288ce124625eabd29b76daf602ad3dcb"
 metafile = true
 
 [[files]]
@@ -310,10 +310,6 @@ hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
 
 [[files]]
-file = "mods/gooddog-0.1.0.jar"
-hash = "f1e90fe44bf802b5b2a62fe15c17953cc23676ac0007512d0294fe85fbfe7446"
-
-[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "6b600644bc76fcb7e45921d5d3dc55605fc155add265c04ed79a1545ba9109d0"
 metafile = true
@@ -420,15 +416,11 @@ metafile = true
 
 [[files]]
 file = "mods/newhaven-backpack-0.1.0.jar"
-hash = "d4a83072ced0d71596a2b592c736fd1752603b77126f3bfd9db890f58f140a53"
+hash = "0b805dd9a0bb503c5c270eccfb23fd3b77e1b0ef5051517eec3179c8e65f4a60"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "7092fa73bc1d5c8e3327071fb0c63390561e3678dc7fd98e8a3909b163fd856a"
-
-[[files]]
-file = "mods/newhaven-inventory-0.1.0.jar"
-hash = "587bd6ccd20de8040f53129a93da4bcf44e40f1735fefd96bf37804679bdf813"
+hash = "d5aa9480de5a454e4923c2e4cbfc743b7ca67df4ba633169ac869855d2ff4e56"
 
 [[files]]
 file = "mods/newhaven-trees-1.0.0.jar"
@@ -436,7 +428,7 @@ hash = "8175f84258801632ffa3d3b735f60795e0fc9e57a36912422989e0cf224f4802"
 
 [[files]]
 file = "mods/newhaven-villagers-0.1.0.jar"
-hash = "795d2c4b55c3601b43216c5faa9ef5ae177feb383c25617fe008b626b2697c06"
+hash = "f2d03b6ae8d1fe75fff7ecbbded9f34c581c6e8053f2fa0c1d5950f976258f8c"
 
 [[files]]
 file = "mods/no-night-skip.pw.toml"
@@ -609,12 +601,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d609fad21021c5578750019bbe247515af55b0d1284ef838e42ef4ad0d5fbff4"
+hash = "4c336c9a00838ff5b5bbf6cd8ae35927186fdfa42258ca15513835e1b12ced2f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ac287f392613eddfa285620dcecb3fea25ee6232a201009cde5c5511b6a39fb9"
+hash = "69df708c9b3980d96c953eaa0f98a9cb82ce7679872d1364da5ca4c116dc40b1"
 metafile = true
 
 [[files]]
