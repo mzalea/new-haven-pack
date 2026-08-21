@@ -415,12 +415,20 @@ hash = "f1363fb2ffcc4f617935af07f94a611adaa5d1e40cffdf303e9a546740a7411d"
 metafile = true
 
 [[files]]
+file = "mods/newhaven-backpack-0.1.0.jar"
+hash = "0b805dd9a0bb503c5c270eccfb23fd3b77e1b0ef5051517eec3179c8e65f4a60"
+
+[[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "df01e3bb5b81f0de763596d02a4b8a387b2c0be67d1073fc7e46bc5304f633b8"
+hash = "3a09e487ffbce7324711d41daeedc2c9a49d9f8f85ad1f25a99d34ded3f2c47d"
 
 [[files]]
 file = "mods/newhaven-trees-1.0.0.jar"
 hash = "8175f84258801632ffa3d3b735f60795e0fc9e57a36912422989e0cf224f4802"
+
+[[files]]
+file = "mods/newhaven-villagers-0.1.0.jar"
+hash = "f2d03b6ae8d1fe75fff7ecbbded9f34c581c6e8053f2fa0c1d5950f976258f8c"
 
 [[files]]
 file = "mods/no-night-skip.pw.toml"
