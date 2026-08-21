@@ -424,11 +424,11 @@ hash = "d4a83072ced0d71596a2b592c736fd1752603b77126f3bfd9db890f58f140a53"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "423bd641f73ebd3b16e55604643e278a2ab0ecc214bb5a3b2edcc75501855f72"
+hash = "7092fa73bc1d5c8e3327071fb0c63390561e3678dc7fd98e8a3909b163fd856a"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
-hash = "acf74737678749ad10444bd194b1741ab1f520649bb867d5105c620477798875"
+hash = "4fc92fc3c78a3bd4b5d94bdccd3706c10bbb1111a0947d6acd42eb60429be314"
 
 [[files]]
 file = "mods/newhaven-trees-1.0.0.jar"
