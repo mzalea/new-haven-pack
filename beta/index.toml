@@ -310,6 +310,10 @@ hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
 
 [[files]]
+file = "mods/gooddog-0.1.0.jar"
+hash = "f1e90fe44bf802b5b2a62fe15c17953cc23676ac0007512d0294fe85fbfe7446"
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "6b600644bc76fcb7e45921d5d3dc55605fc155add265c04ed79a1545ba9109d0"
 metafile = true
@@ -420,12 +424,20 @@ hash = "f1363fb2ffcc4f617935af07f94a611adaa5d1e40cffdf303e9a546740a7411d"
 metafile = true
 
 [[files]]
+file = "mods/newhaven-backpack-0.1.0.jar"
+hash = "0b805dd9a0bb503c5c270eccfb23fd3b77e1b0ef5051517eec3179c8e65f4a60"
+
+[[files]]
 file = "mods/newhaven-core-0.1.0.jar"
 hash = "3a09e487ffbce7324711d41daeedc2c9a49d9f8f85ad1f25a99d34ded3f2c47d"
 
 [[files]]
 file = "mods/newhaven-trees-1.0.0.jar"
 hash = "8175f84258801632ffa3d3b735f60795e0fc9e57a36912422989e0cf224f4802"
+
+[[files]]
+file = "mods/newhaven-villagers-0.1.0.jar"
+hash = "795d2c4b55c3601b43216c5faa9ef5ae177feb383c25617fe008b626b2697c06"
 
 [[files]]
 file = "mods/no-night-skip.pw.toml"
