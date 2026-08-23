@@ -1,6 +1,28 @@
 # This holds the schematic version for internal purposes. DO NOT TOUCH!
 schematicVersion = 5
 
+# ---------------------------------------------------------------------------
+# New Haven voyage-role proposal (issue #117 - DECIDE, NOT YET RATIFIED)
+# ---------------------------------------------------------------------------
+# CONTROL (shipped baseline, all hulls identical):
+#   Cog     speed 32  storage 108
+#   Brigg   speed 32  storage 162
+#   Galley  speed 32  storage 54
+#   Drakkar speed 32  storage 54
+#
+# PROPOSED role split below (differentiate hulls WITHOUT slowing the sea):
+#   Cog     speed 32  storage 108  balanced coastal starter (unchanged control)
+#   Brigg   speed 32  storage 162  cargo & livestock hauler (capacity, not speed)
+#   Galley  speed 33  storage 72   agile crew ship
+#   Drakkar speed 34  storage 63   expedition / rescue hull
+#
+# Deliberately REJECTS the stale inventory-boats-polish prototype risks:
+#   - Cog storage stays 108 (prototype halved it to 54, weakening early voyages)
+#   - Brigg stays 32 km/h (prototype slowed it to 28, punishing long livestock runs)
+# Acceleration and turning are LEFT AT SHIPPED VALUES (out of scope, #117).
+# Final numbers are gated on the in-game route feel-pass described in the PR.
+# ---------------------------------------------------------------------------
+
 # This category holds configs that define ship behaviour.
 [Ship]
 
@@ -112,7 +134,7 @@ schematicVersion = 5
 			#Range: 0.0 ~ 10000.0
 			shipAttributeGalleyMaxHealth = 200.0
 			#Range: 0.0 ~ 100.0
-			shipAttributeGalleyMaxSpeed = 32.0
+			shipAttributeGalleyMaxSpeed = 33.0
 			#Range: 0.0 ~ 100.0
 			shipAttributeGalleyMaxReverseSpeed = 0.1
 			#Range: 0.0 ~ 100.0
@@ -125,7 +147,7 @@ schematicVersion = 5
 		#Default configs for the container of the Galley.
 		[Ship.Galley.Container]
 			#Set container size for the Galley (value must be divisible by 9 and bigger than 0).
-			shipContainerGalleyContainerSize = 54
+			shipContainerGalleyContainerSize = 72
 
 		#Galley specific speed modifiers.
 		[Ship.Galley.Modifier]
@@ -138,7 +160,7 @@ schematicVersion = 5
 			#Range: 0.0 ~ 10000.0
 			shipAttributeDrakkarMaxHealth = 200.0
 			#Range: 0.0 ~ 100.0
-			shipAttributeDrakkarMaxSpeed = 32.0
+			shipAttributeDrakkarMaxSpeed = 34.0
 			#Range: 0.0 ~ 100.0
 			shipAttributeDrakkarMaxReverseSpeed = 0.1
 			#Range: 0.0 ~ 100.0
@@ -151,7 +173,7 @@ schematicVersion = 5
 		#Default configs for the container of the Drakkar.
 		[Ship.Drakkar.Container]
 			#Set container size for the Drakkar (value must be divisible by 9 and bigger than 0).
-			shipContainerDrakkarContainerSize = 54
+			shipContainerDrakkarContainerSize = 63
 
 		#Drakkar specific speed modifiers.
 		[Ship.Drakkar.Modifier]

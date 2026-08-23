@@ -42,7 +42,7 @@ hash = "2415c2c00301a393597f783b0c36f6a357d5d80d30452f89859e45fec1873918"
 
 [[files]]
 file = "config/smallships-common.toml"
-hash = "3990a05f99376648dc89841c4a7d14dca56ad76d7af101790346d5347079db12"
+hash = "4640b18dfd9d777fd36be1fd4017b3c613cb83ce0d2a9a5df2afc58975be3d54"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
