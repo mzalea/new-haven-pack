@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "f2b36128536139b2e9f479c08b177551c3b64c0fa1a13c7053b5349e74b475cd"
 
 [[files]]
+file = "config/defaultoptions-common.toml"
+hash = "ac3bca10377f4eed0bef89704f7f133ef7381bff6b5c516d746942929bfc542e"
+
+[[files]]
 file = "config/defaultoptions/extra/config/plasmovoice/client/config.toml"
 hash = "e3d85e231c99682889ce8f476c351b243e06e60d0681791c1d7c8f0229987e53"
 
@@ -35,6 +39,10 @@ hash = "f954c8b36f076c91b79cac4e67fcb4266dca15f0a4253f5b2b084b10659f4218"
 [[files]]
 file = "config/plasmovoice/client.toml"
 hash = "2415c2c00301a393597f783b0c36f6a357d5d80d30452f89859e45fec1873918"
+
+[[files]]
+file = "config/smallships-common.toml"
+hash = "3990a05f99376648dc89841c4a7d14dca56ad76d7af101790346d5347079db12"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -420,7 +428,7 @@ hash = "0b805dd9a0bb503c5c270eccfb23fd3b77e1b0ef5051517eec3179c8e65f4a60"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "d5aa9480de5a454e4923c2e4cbfc743b7ca67df4ba633169ac869855d2ff4e56"
+hash = "37e49a81d47d21ca6fbe085ad3ed6ca831f60a58075d44d993ff95ad4b18d5ed"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
@@ -662,6 +670,26 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
 metafile = true
+
+[[files]]
+file = "resourcepacks/newhaven-client-fixes/assets/dustydecorations/models/item/copper_lion_door_knocker.json"
+hash = "2ace9dde3e2e9a6d7f6c9d8e3ce9439294939d38891004e1a1def256e3500d99"
+
+[[files]]
+file = "resourcepacks/newhaven-client-fixes/assets/farmersdelight/textures/block/tray_pie_leftover.png"
+hash = "2c861f4b178d6516d2490f0c6e82a4db95ed6ca087f255445beef159e1be5738"
+
+[[files]]
+file = "resourcepacks/newhaven-client-fixes/assets/spudaciousshops/models/block/cushion_light_grey.json"
+hash = "b93cfdeb36b37b3e0e5fb9bf22873117e4fa48c8ec0660cfe6cffbb8ed96e236"
+
+[[files]]
+file = "resourcepacks/newhaven-client-fixes/assets/spudaciousshops/models/block/shop_window.json"
+hash = "8600cefa5b16d5045b860fa3c3168520c511f0b738ebfa12f40fc56985ad171e"
+
+[[files]]
+file = "resourcepacks/newhaven-client-fixes/pack.mcmeta"
+hash = "e7e0878253d9dd152ca95185d48e2a15fba46af8cf5262f303b29ed128894c29"
 
 [[files]]
 file = "shaderpacks/sildurs-enhanced-default-shaders.pw.toml"
