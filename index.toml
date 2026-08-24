@@ -42,7 +42,7 @@ hash = "2415c2c00301a393597f783b0c36f6a357d5d80d30452f89859e45fec1873918"
 
 [[files]]
 file = "config/smallships-common.toml"
-hash = "3990a05f99376648dc89841c4a7d14dca56ad76d7af101790346d5347079db12"
+hash = "9b97afd8d6d680653bc1c54e78ac754a757d52791037fef9a03a24138fe17752"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -428,7 +428,7 @@ hash = "0b805dd9a0bb503c5c270eccfb23fd3b77e1b0ef5051517eec3179c8e65f4a60"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "37e49a81d47d21ca6fbe085ad3ed6ca831f60a58075d44d993ff95ad4b18d5ed"
+hash = "a3443b1c07b660f9deab46110116f7c7150c8c508eb5611bf1bb82e8abcbb5d5"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "6f24e7f5ecef862b1bdb61031637e27b093f185c3219023bea94d2d954ec4180"
+hash = "70a1250e9612f8194f88e9c14b405907d16e7b2df7742d6b4d1c42473486395e"
 metafile = true
 
 [[files]]
