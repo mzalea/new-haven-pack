@@ -33,7 +33,8 @@ schematicVersion = 5
 		shipGeneralSailCooldown = 30
 		#The damage that is delivered to entities on collision with a cruising ship. Set 0 to disable feature.
 		#Range: 0.0 ~ 100.0
-		shipGeneralCollisionDamage = 5.0
+		# New Haven: ships never damage what they bump into — sailing past animals/players is harmless.
+		shipGeneralCollisionDamage = 0.0
 		#Should entities be pushed on collision with a cruising ship?
 		shipGeneralCollisionKnockBack = true
 		#Should the ship item be dropped when the ship is fully damaged?
