@@ -37,6 +37,10 @@ file = "config/iris.properties"
 hash = "f954c8b36f076c91b79cac4e67fcb4266dca15f0a4253f5b2b084b10659f4218"
 
 [[files]]
+file = "config/jei/blacklist.json"
+hash = "86172455d0d1d5bf24faa1057e96f82a05cc738487a7ddcdc4e16524963551fa"
+
+[[files]]
 file = "config/plasmovoice/client.toml"
 hash = "2415c2c00301a393597f783b0c36f6a357d5d80d30452f89859e45fec1873918"
 
@@ -428,7 +432,7 @@ hash = "0b805dd9a0bb503c5c270eccfb23fd3b77e1b0ef5051517eec3179c8e65f4a60"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "0226907cb8d589fc991429bb905ad0acb19718125c61e2ecd536e62400ea6300"
+hash = "25464f0e7881552afafd06ec43a4b804052ff4758d0c864ba36eccbd05d09abf"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
@@ -564,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "mods/tempo-0.1.0.jar"
-hash = "b25638e3bdee23bf32cf4bf3a940e495cb69bc0852cdc87701101470d497cd68"
+hash = "fd8624cc6812116b00ff7767447f5879bf543abb17739cda7fe21001d63fb7e9"
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
