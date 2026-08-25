@@ -37,6 +37,10 @@ file = "config/iris.properties"
 hash = "f954c8b36f076c91b79cac4e67fcb4266dca15f0a4253f5b2b084b10659f4218"
 
 [[files]]
+file = "config/jei/blacklist.json"
+hash = "86172455d0d1d5bf24faa1057e96f82a05cc738487a7ddcdc4e16524963551fa"
+
+[[files]]
 file = "config/plasmovoice/client.toml"
 hash = "2415c2c00301a393597f783b0c36f6a357d5d80d30452f89859e45fec1873918"
 
