@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6828b28c310ae427da625473c55b79eb0c7ca42acc76591948644af0c04e3933"
+hash = "48b746cb623c16a8cee88ec0d7d42233d74d97b9cf92d662f121633723d50876"
 metafile = true
 
 [[files]]
@@ -428,11 +428,11 @@ metafile = true
 
 [[files]]
 file = "mods/newhaven-backpack-0.1.0.jar"
-hash = "0b805dd9a0bb503c5c270eccfb23fd3b77e1b0ef5051517eec3179c8e65f4a60"
+hash = "19558e59a7361de30271006484b3d751de25796ca2f361b61167940d03ab30ed"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "25464f0e7881552afafd06ec43a4b804052ff4758d0c864ba36eccbd05d09abf"
+hash = "0f84aa39f3aa2f613782a800cf77020515a63db465fdfcfbfe724f25958abbee"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
