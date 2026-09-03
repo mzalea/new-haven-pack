@@ -49,6 +49,10 @@ file = "config/smallships-common.toml"
 hash = "9b97afd8d6d680653bc1c54e78ac754a757d52791037fef9a03a24138fe17752"
 
 [[files]]
+file = "config/travelerstitles-neoforge-1_21.toml"
+hash = "644608f853488921afbafc6797b9ff8f6d0ba58558e814c38a623006834d6796"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
@@ -428,11 +432,11 @@ metafile = true
 
 [[files]]
 file = "mods/newhaven-backpack-0.1.0.jar"
-hash = "0b805dd9a0bb503c5c270eccfb23fd3b77e1b0ef5051517eec3179c8e65f4a60"
+hash = "19558e59a7361de30271006484b3d751de25796ca2f361b61167940d03ab30ed"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "cdba6984f6fa2d8035bce7de9ca78e64bd9801891078dc859ffd475338c2a0e5"
+hash = "76278c7b83acc3fa31b53626c05a367feccf4433a84cdefc14f67484835a223d"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
