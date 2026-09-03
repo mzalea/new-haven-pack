@@ -428,11 +428,11 @@ metafile = true
 
 [[files]]
 file = "mods/newhaven-backpack-0.1.0.jar"
-hash = "19558e59a7361de30271006484b3d751de25796ca2f361b61167940d03ab30ed"
+hash = "0b805dd9a0bb503c5c270eccfb23fd3b77e1b0ef5051517eec3179c8e65f4a60"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "0f84aa39f3aa2f613782a800cf77020515a63db465fdfcfbfe724f25958abbee"
+hash = "25464f0e7881552afafd06ec43a4b804052ff4758d0c864ba36eccbd05d09abf"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
+hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
