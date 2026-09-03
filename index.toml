@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6828b28c310ae427da625473c55b79eb0c7ca42acc76591948644af0c04e3933"
+hash = "48b746cb623c16a8cee88ec0d7d42233d74d97b9cf92d662f121633723d50876"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ hash = "0b805dd9a0bb503c5c270eccfb23fd3b77e1b0ef5051517eec3179c8e65f4a60"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "25464f0e7881552afafd06ec43a4b804052ff4758d0c864ba36eccbd05d09abf"
+hash = "cdba6984f6fa2d8035bce7de9ca78e64bd9801891078dc859ffd475338c2a0e5"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
+hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
@@ -568,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "mods/tempo-0.1.0.jar"
-hash = "fd8624cc6812116b00ff7767447f5879bf543abb17739cda7fe21001d63fb7e9"
+hash = "af03967dca3dd92d0dee9fc9c945975543cde972f3b5ba04026de8cd7f2d56ff"
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
