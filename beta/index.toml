@@ -432,7 +432,7 @@ hash = "0b805dd9a0bb503c5c270eccfb23fd3b77e1b0ef5051517eec3179c8e65f4a60"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "25464f0e7881552afafd06ec43a4b804052ff4758d0c864ba36eccbd05d09abf"
+hash = "88f69f4464728811cdf43f455e74ca78d05ab4e9f4e2423f81bf1fac67233716"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
@@ -568,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "mods/tempo-0.1.0.jar"
-hash = "fd8624cc6812116b00ff7767447f5879bf543abb17739cda7fe21001d63fb7e9"
+hash = "af03967dca3dd92d0dee9fc9c945975543cde972f3b5ba04026de8cd7f2d56ff"
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
