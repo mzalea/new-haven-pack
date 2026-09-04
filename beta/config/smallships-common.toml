@@ -71,8 +71,15 @@ schematicVersion = 5
 
 		#This category holds configs that define behaviour of fleeing water animals.
 		[Ship.General."Fleeing Water Animals"]
+			# Perf: 0 disables the flee behaviour. Every tick a cruising ship scans a radius-cube for
+			# WaterAnimals and every 20 ticks path-flees each one it finds (Ship.java: getEntitiesOfClass
+			# + getNavigation().moveTo per animal). In New Haven's densely repopulated oceans a fast Cog
+			# plowing a fish shoal fires that on dozens of mobs at once — the cause of a ~1.8s single-tick
+			# server freeze seen on prod (spark tickmonitor). Fish scattering from boats is not worth a
+			# recurring stall, so we switch it off. Collision push (shipGeneralCollisionKnockBack) is left
+			# on — this changes flee only.
 			#Range: 0.0 ~ 100.0
-			waterAnimalFleeRadius = 15.0
+			waterAnimalFleeRadius = 0.0
 			#Range: 0.0 ~ 100.0
 			waterAnimalFleeSpeed = 1.5
 			#Range: 0.0 ~ 100.0

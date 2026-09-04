@@ -46,7 +46,7 @@ hash = "2415c2c00301a393597f783b0c36f6a357d5d80d30452f89859e45fec1873918"
 
 [[files]]
 file = "config/smallships-common.toml"
-hash = "9b97afd8d6d680653bc1c54e78ac754a757d52791037fef9a03a24138fe17752"
+hash = "3a52a3f3ac826b20d5cf82fde2b2434e9dd12bd3a17187cb348caeacb101e0c0"
 
 [[files]]
 file = "config/travelerstitles-neoforge-1_21.toml"
