@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/tempo-0.1.0.jar"
-hash = "af03967dca3dd92d0dee9fc9c945975543cde972f3b5ba04026de8cd7f2d56ff"
+hash = "12cc40dff6fb45ed03b91abf8b93d0546cc697397662abf0fb69c4484089a177"
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
