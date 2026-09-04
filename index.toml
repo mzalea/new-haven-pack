@@ -46,7 +46,7 @@ hash = "2415c2c00301a393597f783b0c36f6a357d5d80d30452f89859e45fec1873918"
 
 [[files]]
 file = "config/smallships-common.toml"
-hash = "9b97afd8d6d680653bc1c54e78ac754a757d52791037fef9a03a24138fe17752"
+hash = "3a52a3f3ac826b20d5cf82fde2b2434e9dd12bd3a17187cb348caeacb101e0c0"
 
 [[files]]
 file = "config/travelerstitles-neoforge-1_21.toml"
@@ -436,7 +436,7 @@ hash = "19558e59a7361de30271006484b3d751de25796ca2f361b61167940d03ab30ed"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "89ed869aeb0ba7c64ba6b7c1abeb86f53ceb78279efe8db2100cc27bfa534e66"
+hash = "50133e9ea1bc6ad1a538d4ac1d51aed93fbc4124b602ba60b75bc57ec0858c34"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/tempo-0.1.0.jar"
-hash = "af03967dca3dd92d0dee9fc9c945975543cde972f3b5ba04026de8cd7f2d56ff"
+hash = "12cc40dff6fb45ed03b91abf8b93d0546cc697397662abf0fb69c4484089a177"
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
