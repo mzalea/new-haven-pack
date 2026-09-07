@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/cool-rain-reforged.pw.toml"
-hash = "e1979752a25bce7b7e3d1ca065e534d21c162c5630fe0b5c6ac73b07e0af7bce"
+hash = "7c5d1fb47ffd309dc332ad2011e2e392b54d74dc49607872af01222a1df24186"
 metafile = true
 
 [[files]]
@@ -309,6 +309,18 @@ hash = "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5"
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "78a50ddf9108d1dda82e7de46a991dcd61a046e4ea2279aa551071ba8f178f86"
 metafile = true
+
+[[files]]
+file = "mods/ftb-library-neoforge-2101.1.32.jar"
+hash = "6308e71fec7095f68328020a63121a966c8ef89bd3528e459c528037e3484354"
+
+[[files]]
+file = "mods/ftb-quests-neoforge-2101.1.27.jar"
+hash = "460b163ebefb4580e1ad32e1f94f1ea4bdc8f763692ee821628ace10bde49a03"
+
+[[files]]
+file = "mods/ftb-teams-neoforge-2101.1.10.jar"
+hash = "a656f2aa0e11a933aab3ba697690aa0eb2041f65e6c5daa448897ee0a6d37a6c"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
