@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "ee67d289146b7330d5977e524dec564ae6cb55585a6d5ecd7f472220044a9880"
+hash = "36ba6ade58f4c13c623743ee4b18e92a56355d3014e6c05fb6d7183d13fb9d83"
 metafile = true
 
 [[files]]
@@ -448,7 +448,7 @@ hash = "19558e59a7361de30271006484b3d751de25796ca2f361b61167940d03ab30ed"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "8270e40ea27098399d140cd9d92a8775c85635597b7d2492376e89da36d5f97e"
+hash = "2f69e98949009785478e09ab3757169e7d197b3a323d13bbd541b768560a6537"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
