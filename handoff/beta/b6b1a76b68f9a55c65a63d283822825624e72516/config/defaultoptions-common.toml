@@ -1,2 +1,0 @@
-# Default Options applies this once per profile and records resource-packs in its journal.
-defaultResourcePacks = ["file/newhaven-client-fixes"]
