@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "b06e3a557d5fe63fa8bcb60335eba994288ce124625eabd29b76daf602ad3dcb"
+hash = "ee67d289146b7330d5977e524dec564ae6cb55585a6d5ecd7f472220044a9880"
 metafile = true
 
 [[files]]
@@ -448,7 +448,7 @@ hash = "19558e59a7361de30271006484b3d751de25796ca2f361b61167940d03ab30ed"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "c459db86d80315c84539e74530acf5322c5aec614722b80f54717c4710031508"
+hash = "757cf1a863bef6edfcafda8b4125e024e42fa8f1ff8d3c029c438e8e865eb8ff"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
@@ -633,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4c336c9a00838ff5b5bbf6cd8ae35927186fdfa42258ca15513835e1b12ced2f"
+hash = "64670072fa3b4db4a721769dd3d66a2865daac01c9a2480b9561675b1e9e9737"
 metafile = true
 
 [[files]]
