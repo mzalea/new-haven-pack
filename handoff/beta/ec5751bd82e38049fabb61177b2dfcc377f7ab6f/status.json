@@ -1,0 +1,17 @@
+{
+  "channel": "beta",
+  "completed_at": "2026-09-11T04:56:33Z",
+  "kind": "client_publish",
+  "pack_toml_sha256": "5f68d849e2ca2afd2646dc26cf77d1b42b3f42d7a6a661d7190dadb874d1f07f",
+  "schema_version": 1,
+  "source": {
+    "dirty": false,
+    "kind": "github",
+    "sha": "ec5751bd82e38049fabb61177b2dfcc377f7ab6f"
+  },
+  "version": "0.4.0-midsummer.1",
+  "workflow": {
+    "run_id": 34563949682,
+    "url": "https://github.com/mzalea/new-haven/actions/runs/34563949682"
+  }
+}
