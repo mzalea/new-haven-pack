@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/gooddog-0.1.0.jar"
-hash = "5e39d57100ebd9e913ae37d438666199bd86253196a8814e79d6949d7a8b8b9e"
+hash = "17d7f8918c84541d5301a8a31e8e73134427d6c002289c5d4121739036c035e0"
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
@@ -452,7 +452,7 @@ hash = "19558e59a7361de30271006484b3d751de25796ca2f361b61167940d03ab30ed"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "97b8e247e05bc365461bce36b0b5745e317f5c11305215994fbfd27ddcd8f035"
+hash = "fcedec53bafbcb4cf4e5044b537e504ca1e92a12dbaeb36dc16ed1ea752dc945"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
@@ -494,6 +494,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "70a1250e9612f8194f88e9c14b405907d16e7b2df7742d6b4d1c42473486395e"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
