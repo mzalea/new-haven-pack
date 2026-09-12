@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/gooddog-0.1.0.jar"
-hash = "17d7f8918c84541d5301a8a31e8e73134427d6c002289c5d4121739036c035e0"
+hash = "40f997a5ad9e9d46c2c85996b5a622625abffdc62a7e5e274ab3894062256fe5"
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
@@ -452,7 +452,7 @@ hash = "19558e59a7361de30271006484b3d751de25796ca2f361b61167940d03ab30ed"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "fcedec53bafbcb4cf4e5044b537e504ca1e92a12dbaeb36dc16ed1ea752dc945"
+hash = "c622e9f4b103b1f94b7338973390513be945e8653f4e450f3111fc344b2c3edf"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
