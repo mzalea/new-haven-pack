@@ -452,7 +452,7 @@ hash = "19558e59a7361de30271006484b3d751de25796ca2f361b61167940d03ab30ed"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "02b8f2697c69670fd23acdb1bbe9382e871c909cf8109a6dc6e59320b38f5802"
+hash = "f5af76199c7f6b677821d520a8d1bc7aa523981a91105ff5e6207ebe037de6b6"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
@@ -722,5 +722,5 @@ hash = "e7e0878253d9dd152ca95185d48e2a15fba46af8cf5262f303b29ed128894c29"
 
 [[files]]
 file = "shaderpacks/sildurs-enhanced-default-shaders.pw.toml"
-hash = "721407712770adc0883025c7c990ad176e8f0b35884c2f777d40766496addd25"
+hash = "229bc49795845b51a0c71a52f97a9264a3bd96596e8f49f6a812dc07734e53a3"
 metafile = true
