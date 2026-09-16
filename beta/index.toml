@@ -452,7 +452,7 @@ hash = "19558e59a7361de30271006484b3d751de25796ca2f361b61167940d03ab30ed"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "5dc8cd5ac0d584ca29cd00c258b2ff6d8086ec77e1e504a5fb5366b5a7d0956c"
+hash = "52ae1795f1f8d4543f0913626028f01271a731156d5c3c29d90970d83e44f133"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
@@ -701,12 +701,24 @@ hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/newhaven-client-fixes/OpenSans-LICENSE.txt"
+hash = "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+
+[[files]]
 file = "resourcepacks/newhaven-client-fixes/assets/dustydecorations/models/item/copper_lion_door_knocker.json"
 hash = "2ace9dde3e2e9a6d7f6c9d8e3ce9439294939d38891004e1a1def256e3500d99"
 
 [[files]]
 file = "resourcepacks/newhaven-client-fixes/assets/farmersdelight/textures/block/tray_pie_leftover.png"
 hash = "2c861f4b178d6516d2490f0c6e82a4db95ed6ca087f255445beef159e1be5738"
+
+[[files]]
+file = "resourcepacks/newhaven-client-fixes/assets/minecraft/font/default.json"
+hash = "79335a7f5a31a3be9cd947e53c16d01b90902bdbae3dad51e788a0794a1cfb72"
+
+[[files]]
+file = "resourcepacks/newhaven-client-fixes/assets/minecraft/font/opensans/OpenSans-Regular.ttf"
+hash = "8ab4aa561e7db0eb3e1af8b0bed2a315e0a33fe2ed3070e645d1b89f8efc1d5c"
 
 [[files]]
 file = "resourcepacks/newhaven-client-fixes/assets/spudaciousshops/models/block/cushion_light_grey.json"
