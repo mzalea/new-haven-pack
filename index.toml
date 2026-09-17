@@ -54,7 +54,7 @@ hash = "644608f853488921afbafc6797b9ff8f6d0ba58558e814c38a623006834d6796"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
+hash = "b3b67f83faf9dcc4985b7a13fa8affb71062461d271f80cc0958652df9f3126b"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/cool-rain-reforged.pw.toml"
-hash = "e1979752a25bce7b7e3d1ca065e534d21c162c5630fe0b5c6ac73b07e0af7bce"
+hash = "7c5d1fb47ffd309dc332ad2011e2e392b54d74dc49607872af01222a1df24186"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "b06e3a557d5fe63fa8bcb60335eba994288ce124625eabd29b76daf602ad3dcb"
+hash = "36ba6ade58f4c13c623743ee4b18e92a56355d3014e6c05fb6d7183d13fb9d83"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+hash = "932c65fb598293dba5dc60a76fc64c2579db427018b10dd4757dd421d9abcaf0"
 metafile = true
 
 [[files]]
@@ -326,6 +326,10 @@ hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
 
 [[files]]
+file = "mods/gooddog-0.1.0.jar"
+hash = "f1e90fe44bf802b5b2a62fe15c17953cc23676ac0007512d0294fe85fbfe7446"
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "6b600644bc76fcb7e45921d5d3dc55605fc155add265c04ed79a1545ba9109d0"
 metafile = true
@@ -337,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "48b746cb623c16a8cee88ec0d7d42233d74d97b9cf92d662f121633723d50876"
+hash = "2863a3b187723e1f69ed2ad2b2c3d834e8442468a1347c80df5b310e243c8753"
 metafile = true
 
 [[files]]
@@ -436,7 +440,7 @@ hash = "19558e59a7361de30271006484b3d751de25796ca2f361b61167940d03ab30ed"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "e9bccde2bb7ee90333e9c35d23051710d8dd32168e48c673c2e68d0297575a68"
+hash = "8366ecfede4a4ef2a6d17228487cfd1f061047198febc5fb89da094c50f1fbe8"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
@@ -680,12 +684,24 @@ hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/newhaven-client-fixes/OpenSans-LICENSE.txt"
+hash = "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+
+[[files]]
 file = "resourcepacks/newhaven-client-fixes/assets/dustydecorations/models/item/copper_lion_door_knocker.json"
 hash = "2ace9dde3e2e9a6d7f6c9d8e3ce9439294939d38891004e1a1def256e3500d99"
 
 [[files]]
 file = "resourcepacks/newhaven-client-fixes/assets/farmersdelight/textures/block/tray_pie_leftover.png"
 hash = "2c861f4b178d6516d2490f0c6e82a4db95ed6ca087f255445beef159e1be5738"
+
+[[files]]
+file = "resourcepacks/newhaven-client-fixes/assets/minecraft/font/default.json"
+hash = "79335a7f5a31a3be9cd947e53c16d01b90902bdbae3dad51e788a0794a1cfb72"
+
+[[files]]
+file = "resourcepacks/newhaven-client-fixes/assets/minecraft/font/opensans/OpenSans-Regular.ttf"
+hash = "8ab4aa561e7db0eb3e1af8b0bed2a315e0a33fe2ed3070e645d1b89f8efc1d5c"
 
 [[files]]
 file = "resourcepacks/newhaven-client-fixes/assets/spudaciousshops/models/block/cushion_light_grey.json"
@@ -701,5 +717,5 @@ hash = "e7e0878253d9dd152ca95185d48e2a15fba46af8cf5262f303b29ed128894c29"
 
 [[files]]
 file = "shaderpacks/sildurs-enhanced-default-shaders.pw.toml"
-hash = "721407712770adc0883025c7c990ad176e8f0b35884c2f777d40766496addd25"
+hash = "229bc49795845b51a0c71a52f97a9264a3bd96596e8f49f6a812dc07734e53a3"
 metafile = true
