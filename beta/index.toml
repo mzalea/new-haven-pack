@@ -311,18 +311,6 @@ hash = "78a50ddf9108d1dda82e7de46a991dcd61a046e4ea2279aa551071ba8f178f86"
 metafile = true
 
 [[files]]
-file = "mods/ftb-library-neoforge-2101.1.32.jar"
-hash = "6308e71fec7095f68328020a63121a966c8ef89bd3528e459c528037e3484354"
-
-[[files]]
-file = "mods/ftb-quests-neoforge-2101.1.27.jar"
-hash = "460b163ebefb4580e1ad32e1f94f1ea4bdc8f763692ee821628ace10bde49a03"
-
-[[files]]
-file = "mods/ftb-teams-neoforge-2101.1.10.jar"
-hash = "a656f2aa0e11a933aab3ba697690aa0eb2041f65e6c5daa448897ee0a6d37a6c"
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "932c65fb598293dba5dc60a76fc64c2579db427018b10dd4757dd421d9abcaf0"
 metafile = true
@@ -452,7 +440,7 @@ hash = "19558e59a7361de30271006484b3d751de25796ca2f361b61167940d03ab30ed"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "96477d4857837484984bf860f26966d5c7bbe8255938f4c264d947ad9972a452"
+hash = "8366ecfede4a4ef2a6d17228487cfd1f061047198febc5fb89da094c50f1fbe8"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
@@ -494,11 +482,6 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "70a1250e9612f8194f88e9c14b405907d16e7b2df7742d6b4d1c42473486395e"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
