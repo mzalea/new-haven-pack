@@ -1,18 +1,18 @@
 {
   "channel": "beta",
-  "completed_at": "2026-09-19T21:03:44Z",
+  "completed_at": "2026-09-19T21:20:13Z",
   "kind": "client_publish",
   "pack_toml_sha256": "e1721965a96c8becaf325aff6869cc3e083b7fef9a2a4932e3769bf5f280175e",
   "schema_version": 1,
   "source": {
     "dirty": false,
     "kind": "github",
-    "sha": "68aa19e40763f5d7ee2dc94c113f59e96fd12f8c",
-    "tree_sha": "22824dc2630b95109190083ea4d0064641937b28"
+    "sha": "51ccc8abe7ce51a4e7c93510d380e615d0eb16f7",
+    "tree_sha": "f9c8dbe79e2566c5a7a0842da0ccbee165cd455c"
   },
   "version": "0.4.0-midsummer.1",
   "workflow": {
-    "run_id": 35469227565,
-    "url": "https://github.com/mzalea/new-haven/actions/runs/35469227565"
+    "run_id": 35470054248,
+    "url": "https://github.com/mzalea/new-haven/actions/runs/35470054248"
   }
 }
