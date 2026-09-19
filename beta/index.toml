@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a7f3c4471a93ee8debbbdef4519c6e399110eb77a84ee2f664022a7ebe64a9cb"
+hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ hash = "19558e59a7361de30271006484b3d751de25796ca2f361b61167940d03ab30ed"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "8366ecfede4a4ef2a6d17228487cfd1f061047198febc5fb89da094c50f1fbe8"
+hash = "7951d7db89aec3e024fc0399a6aa9a06af3478fdf87745fb21681e00ca4560c4"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e5351aecdced72e327044d7570aade60e22cd65bf88d9204829d9ad2d5de9b71"
+hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
 metafile = true
 
 [[files]]
