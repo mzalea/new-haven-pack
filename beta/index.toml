@@ -97,6 +97,11 @@ hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
 metafile = true
 
 [[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "e94f595a5a63fdabe834b84904695ccca3f9bac8856c98b57abd8687555dc213"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "ead3aff0899e5bc61eb22fe0af86722b430f9e92990b3cd2720d5c2c1f66d023"
 metafile = true
