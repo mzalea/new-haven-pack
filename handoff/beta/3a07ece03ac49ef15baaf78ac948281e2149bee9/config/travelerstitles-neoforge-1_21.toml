@@ -1,0 +1,64 @@
+# New Haven pack-owned Traveler's Titles config (git-tracked seed; installed into the
+# client pack by scripts/gen-client-pack.sh). Biome-titles-only: the dimension title
+# ("Overworld" on every join) is off; biome names show as you explore, caves included.
+# Change here + regenerate the client pack — do NOT hand-edit the generated copy.
+["Traveler's Titles"."Biome Titles"]
+	"Enable Biome Titles" = true
+	"Text Fade-In Time" = 10
+	"Text Display Time" = 50
+	"Text Fade-Out Time" = 10
+	"Text Cooldown Time" = 80
+	"Default Text Color" = "ffffff"
+	"Text Size" = 2.1
+	"Display Text Shadow" = true
+	"Text Y Offset" = -33
+	"Text X Offset" = 0
+	"Blacklisted Biomes" = "[minecraft:the_end, minecraft:river, minecraft:frozen_river]"
+	"Number of Most Recent Biomes Saved" = 5
+	"Center Title" = true
+	"Reset Biome Cache When Changing Dimensions" = true
+	# New Haven: show biome titles everywhere, not only under open sky, so caves and
+	# covered terrain still name their biome as you enter.
+	"Only Show Biome Titles When Exposed To Skylight" = false
+
+["Traveler's Titles"."Dimension Titles"]
+	# New Haven: OFF. "Overworld" on every join is redundant noise; biome titles carry
+	# the sense of place instead. Flip to true (regenerate) to bring dimension titles back.
+	"Enable Dimension Titles" = false
+	"Text Fade-In Time" = 10
+	"Text Display Time" = 70
+	"Text Fade-Out Time" = 20
+	"Default Text Color" = "ffffff"
+	"Text Size" = 3.0
+	"Display Text Shadow" = true
+	"Text Y Offset" = -32
+	"Text X Offset" = 0
+	"Blacklisted Dimensions" = "[]"
+	"Center Title" = true
+	"Only Show Dimension Titles When Exposed To Skylight" = false
+
+["Traveler's Titles"."Waystone Titles"]
+	"Enable Waystone Titles" = true
+	"Text Fade-In Time" = 10
+	"Text Display Time" = 50
+	"Text Fade-Out Time" = 10
+	"Text Cooldown Time" = 80
+	"Default Text Color" = "c2b740"
+	"Text Size" = 2.1
+	"Display Text Shadow" = true
+	"Text Y Offset" = -33
+	"Text X Offset" = 0
+	"Number of Most Recent Waystones Saved" = 3
+	"Center Title" = true
+	"Reset Waystone Cache When Changing Dimensions" = true
+	"Waystone Title Range" = 30
+	"Waystone Titles Override Biome Titles" = true
+	"Only Show Waystone Titles When Exposed To Skylight" = false
+
+["Traveler's Titles"."Custom Sound Settings"]
+	"Biome Sound Effect Volume" = 1.0
+	"Biome Sound Effect Pitch" = 1.0
+	"Dimension Sound Effect Volume" = 1.0
+	"Dimension Sound Effect Pitch" = 1.0
+	"Waystone Sound Effect Volume" = 1.0
+	"Waystone Sound Effect Pitch" = 1.0
