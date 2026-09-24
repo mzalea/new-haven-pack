@@ -34,7 +34,7 @@ hash = "69b0955850b712b36fe7ff49b3522a598f6671e11cff08268a63fdd95fb50bb8"
 
 [[files]]
 file = "config/iris.properties"
-hash = "f954c8b36f076c91b79cac4e67fcb4266dca15f0a4253f5b2b084b10659f4218"
+hash = "07f62821d2eb2b84e01d2b4c27e1dbccfcba42b04702875962eb9b0f9cfb7366"
 
 [[files]]
 file = "config/jei/blacklist.json"

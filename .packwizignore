@@ -7,3 +7,4 @@ migrate-map.bat
 migrate-map.sh
 /servers.dat
 /options.txt
+status.json
