@@ -157,6 +157,11 @@ hash = "7c5d1fb47ffd309dc332ad2011e2e392b54d74dc49607872af01222a1df24186"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked-forked.pw.toml"
 hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
 metafile = true
