@@ -457,7 +457,7 @@ hash = "8175f84258801632ffa3d3b735f60795e0fc9e57a36912422989e0cf224f4802"
 
 [[files]]
 file = "mods/newhaven-villagers-0.1.0.jar"
-hash = "f2d03b6ae8d1fe75fff7ecbbded9f34c581c6e8053f2fa0c1d5950f976258f8c"
+hash = "5df6a9f9d0e446b5415c899205f9ec671ac2fa94a7908bfe9fe2d23248eeb639"
 
 [[files]]
 file = "mods/no-night-skip.pw.toml"
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/tempo-0.1.0.jar"
-hash = "b9419cac232ae1f89ea872eacf0c703032f67a66d16eeeb603621cdc05f92500"
+hash = "c3edfc8d51b539cdaff1ab503f67922764676841096de460177bb3c9dc065b95"
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
