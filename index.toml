@@ -157,6 +157,11 @@ hash = "7c5d1fb47ffd309dc332ad2011e2e392b54d74dc49607872af01222a1df24186"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked-forked.pw.toml"
 hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
 metafile = true
@@ -288,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/extralib.pw.toml"
-hash = "8bb865404c5c84cc0c898142cf48f355655b1ff3f80934f5d687ea7e006b8af8"
+hash = "5afded9923dd187f58ef272a8536e60ad849eed0dd749036ff9e97057da8be34"
 metafile = true
 
 [[files]]
@@ -336,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "a8c6a45895b59f2a00c108a5247de7eb15083a0bd835ed10c850ca22f81504ba"
+hash = "1e5b320ad839b14df9754644d36a10bc745bf165da797b9b195136ee6b1f06a7"
 metafile = true
 
 [[files]]
@@ -452,16 +457,16 @@ hash = "8175f84258801632ffa3d3b735f60795e0fc9e57a36912422989e0cf224f4802"
 
 [[files]]
 file = "mods/newhaven-villagers-0.1.0.jar"
-hash = "f2d03b6ae8d1fe75fff7ecbbded9f34c581c6e8053f2fa0c1d5950f976258f8c"
+hash = "5df6a9f9d0e446b5415c899205f9ec671ac2fa94a7908bfe9fe2d23248eeb639"
 
 [[files]]
 file = "mods/no-night-skip.pw.toml"
-hash = "78e1677952bc1b6878507d54579232e8820adb508dcbdd39bc1674498a7f8974"
+hash = "16017c24b34f32d6893d3bc47fdae40811558f5f72ceff51ff40918510cb1c44"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
 
 [[files]]
@@ -481,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "70a1250e9612f8194f88e9c14b405907d16e7b2df7742d6b4d1c42473486395e"
+hash = "a5002024b70bba96cdcfdec654d7b224f5386da01b992e8c71225effe7cd8351"
 metafile = true
 
 [[files]]
@@ -576,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/tempo-0.1.0.jar"
-hash = "b9419cac232ae1f89ea872eacf0c703032f67a66d16eeeb603621cdc05f92500"
+hash = "c3edfc8d51b539cdaff1ab503f67922764676841096de460177bb3c9dc065b95"
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
@@ -615,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/villages-and-pillages.pw.toml"
-hash = "2d57f246f4d3abf17f789c8a98544c2d30c08b339e9b74a650e59b9f38e004ee"
+hash = "89587a0643aa126da364a94ae1c1c3935dcb03759b4caac30875b41ac9984734"
 metafile = true
 
 [[files]]
@@ -645,42 +650,42 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "634130ab233121c290fdb2567afd3939af6d98760c11f14db0426b64b8955894"
+hash = "c2cb28859e7bcc0eb4ce59c5792f90fa5f8ab8865f5867ba26a5a345ec60b498"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "4c2830674a08ec9f10af13e4d259aa60158bd306a3996d935e678281ec0cb5fd"
+hash = "1496ffa30020676979e65921b91e583a2fdc77e50001e2ed55f99edf1a0ae880"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "ee63a5958eb1e0238257e2064d917bdaf8e528a47904bdfbe04a5758a1537e9f"
+hash = "c2dc09f214e7c1cecca6cf434776c2616f6d36bd27c06a6b39f985da0453a4f5"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
-hash = "0cc13a86488cf89d2989edc1636fa63c7efa2fe819246d42af35113458d5ba5b"
+hash = "e839608ebc974e9e7819adc7bf29132ea86fc41b46af540fe0fa39b2007b2439"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "c0e40691651465b4eb1037749148c2078123604195e19b582dbef3cd5914e3b1"
+hash = "50c1731148d91a4ef05cfc47f759ca8fb3dad254e15ce4ecc5732d6fbfa68637"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "9492d0854c51570bf2a6bace6267262e7573b94c40d721348996617e5d99480a"
+hash = "a2d7176026abf4a68a663b375811a603c508f36062cc7fb5b45416e1462682a8"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
-hash = "1a33e6d64e88ad59b65d126c6457d582e62724167349ea184eb237435298985e"
+hash = "03084966c05070b5c4b17cd89234f3c0d813940a2d76b405a6699deac10a0ab8"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
-hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
+hash = "9854b699d5a067c46ac99b1dedeeb529bff3fc18dd079e29b438c4cbf9725f68"
 metafile = true
 
 [[files]]
@@ -717,5 +722,5 @@ hash = "e7e0878253d9dd152ca95185d48e2a15fba46af8cf5262f303b29ed128894c29"
 
 [[files]]
 file = "shaderpacks/sildurs-enhanced-default-shaders.pw.toml"
-hash = "229bc49795845b51a0c71a52f97a9264a3bd96596e8f49f6a812dc07734e53a3"
+hash = "40253b59b3bf606bb29ed544c6307220507f57af4eb4b3fb9f70e5e951a97a95"
 metafile = true

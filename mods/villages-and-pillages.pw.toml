@@ -1,6 +1,6 @@
 name = "Villages&Pillages"
 filename = "villagesandpillages-neoforge-mc1.21.1-1.0.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/klXONLDA/versions/3BGfKjMb/villagesandpillages-neoforge-mc1.21.1-1.0.3.jar"

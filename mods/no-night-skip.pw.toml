@@ -1,6 +1,6 @@
 name = "No Night Skip"
 filename = "no_night_skip-1.0.0-neoforge-1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/M0VlPvjY/versions/tsCEcZsP/no_night_skip-1.0.0-neoforge-1.21.1.jar"
