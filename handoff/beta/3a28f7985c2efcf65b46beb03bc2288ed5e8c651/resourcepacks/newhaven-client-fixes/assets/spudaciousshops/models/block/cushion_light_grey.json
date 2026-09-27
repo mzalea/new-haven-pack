@@ -1,6 +1,0 @@
-{
-  "parent": "spudaciousshops:block/cushion",
-  "textures": {
-    "1": "spudaciousshops:block/cushion/light_gray"
-  }
-}
