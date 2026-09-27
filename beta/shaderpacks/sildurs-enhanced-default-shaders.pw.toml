@@ -1,6 +1,6 @@
 name = "Sildur's Enhanced Default Shaders"
 filename = "Sildur's Enhanced Default v1.20 Fancy.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2jvH1Rcl/versions/va1R00mK/Sildur%27s%20Enhanced%20Default%20v1.20%20Fancy.zip"
