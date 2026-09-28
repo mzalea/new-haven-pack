@@ -1,6 +1,0 @@
-{
-  "parent": "dustydecorations:displaysettings/liondoorknockitemrender",
-  "textures": {
-    "particle": "dustydecorations:block/liondoorknocker"
-  }
-}

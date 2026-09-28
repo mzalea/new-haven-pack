@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "f2b36128536139b2e9f479c08b177551c3b64c0fa1a13c7053b5349e74b475cd"
+hash = "e360911dd4602b9fa63190e3a0a56e3ed037fc178fb8a28a2894354731831f25"
 
 [[files]]
 file = "config/defaultoptions-common.toml"
@@ -358,6 +358,10 @@ metafile = true
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
+
+[[files]]
+file = "mods/irisscalefix-1.3.1.jar"
+hash = "b1a35bace0247fbce0b005c414990d5fa9b74fff44e6cf7d9f1ab831dadb28cf"
 
 [[files]]
 file = "mods/jade.pw.toml"
