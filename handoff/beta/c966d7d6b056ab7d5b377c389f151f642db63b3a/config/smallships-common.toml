@@ -1,0 +1,190 @@
+# This holds the schematic version for internal purposes. DO NOT TOUCH!
+schematicVersion = 5
+
+# ---------------------------------------------------------------------------
+# New Haven voyage-role proposal (issue #117 - DECIDE, NOT YET RATIFIED)
+# ---------------------------------------------------------------------------
+# CONTROL (shipped baseline, all hulls identical):
+#   Cog     speed 32  storage 108
+#   Brigg   speed 32  storage 162
+#   Galley  speed 32  storage 54
+#   Drakkar speed 32  storage 54
+#
+# PROPOSED role split below (differentiate hulls WITHOUT slowing the sea):
+#   Cog     speed 32  storage 108  balanced coastal starter (unchanged control)
+#   Brigg   speed 32  storage 162  cargo & livestock hauler (capacity, not speed)
+#   Galley  speed 33  storage 72   agile crew ship
+#   Drakkar speed 34  storage 63   expedition / rescue hull
+#
+# Deliberately REJECTS the stale inventory-boats-polish prototype risks:
+#   - Cog storage stays 108 (prototype halved it to 54, weakening early voyages)
+#   - Brigg stays 32 km/h (prototype slowed it to 28, punishing long livestock runs)
+# Acceleration and turning are LEFT AT SHIPPED VALUES (out of scope, #117).
+# Final numbers are gated on the in-game route feel-pass described in the PR.
+# ---------------------------------------------------------------------------
+
+# This category holds configs that define ship behaviour.
+[Ship]
+
+	#This category holds configs that define general ship behaviour.
+	[Ship.General]
+		#The cool-down for sails when increasing or decreasing sail state.
+		#Range: 0 ~ 1000
+		shipGeneralSailCooldown = 30
+		#The damage that is delivered to entities on collision with a cruising ship. Set 0 to disable feature.
+		#Range: 0.0 ~ 100.0
+		# New Haven: ships never damage what they bump into — sailing past animals/players is harmless.
+		shipGeneralCollisionDamage = 0.0
+		#Should entities be pushed on collision with a cruising ship?
+		shipGeneralCollisionKnockBack = true
+		#Should the ship item be dropped when the ship is fully damaged?
+		shipGeneralDoItemDrop = true
+
+		#General speed modifiers for ships.
+		[Ship.General.Modifier]
+			#Maximum speed penalty for a filled container in percent.
+			#Range: -500.0 ~ 500.0
+			shipGeneralContainerModifier = 2.0
+			#Speed penalty per cannon in percent.
+			#Range: -500.0 ~ 500.0
+			shipGeneralCannonModifier = 2.5
+			#Speed bonus for a paddle ship while paddling in percent.
+			#Range: -500.0 ~ 500.0
+			shipGeneralPaddlingModifier = 4.0
+			#Maximum speed bonus and penalty depending on the ship biome type in percent.
+			#Range: 0.0 ~ 500.0
+			shipGeneralBiomeModifier = 4.0
+			#Damage reduction per shield in percent.
+			#Range: -500.0 ~ 500.0
+			shipGeneralShieldDamageReduction = 3.0
+			#Time in minutes in which sunken ships will despawn.
+			#Range: 0.0 ~ 600.0
+			shipGeneralDespawnTimeSunken = 15.0
+			#Entities in this list won't be able to mount a ship, for example: ["minecraft:creeper", "minecraft:sheep", ...]
+			mountBlackList = ["minecraft:ender_dragon", "minecraft:wither", "minecraft:ghast", "minecraft:warden", "minecraft:ravager", "minecraft:drowned", "minecraft:pillager", "minecraft:vindicator", "minecraft:evoker", "minecraft:guardian", "minecraft:elder_guardian", "alexmobs:cachalot_whale"]
+			#Amount of damage a cannonball does on hit.
+			#Range: 0.0 ~ 100.0
+			shipGeneralCannonDamage = 12.0
+			#Amount of destruction a cannonball does when hit the ground.
+			#Range: 0.0 ~ 100.0
+			shipGeneralCannonDestruction = 0.0
+
+		#This category holds configs that define behaviour of fleeing water animals.
+		[Ship.General."Fleeing Water Animals"]
+			# Perf: 0 disables the flee behaviour. Every tick a cruising ship scans a radius-cube for
+			# WaterAnimals and every 20 ticks path-flees each one it finds (Ship.java: getEntitiesOfClass
+			# + getNavigation().moveTo per animal). In New Haven's densely repopulated oceans a fast Cog
+			# plowing a fish shoal fires that on dozens of mobs at once — the cause of a ~1.8s single-tick
+			# server freeze seen on prod (spark tickmonitor). Fish scattering from boats is not worth a
+			# recurring stall, so we switch it off. Collision push (shipGeneralCollisionKnockBack) is left
+			# on — this changes flee only.
+			#Range: 0.0 ~ 100.0
+			waterAnimalFleeRadius = 0.0
+			#Range: 0.0 ~ 100.0
+			waterAnimalFleeSpeed = 1.5
+			#Range: 0.0 ~ 100.0
+			waterAnimalFleeDistance = 10.0
+
+		#Default attributes for the Cog. Speed in km/h, Health in default mc health points
+		[Ship.Cog.Attributes]
+			#Range: 1.0 ~ 10000.0
+			shipAttributeCogMaxHealth = 450.0
+			#Range: 0.0 ~ 100.0
+			shipAttributeCogMaxSpeed = 32.0
+			#Range: 0.0 ~ 100.0
+			shipAttributeCogMaxReverseSpeed = 0.1
+			#Range: 0.0 ~ 100.0
+			shipAttributeCogMaxRotationSpeed = 4.5
+			#Range: 0.0 ~ 100.0
+			shipAttributeCogAcceleration = 0.015
+			#Range: 0.0 ~ 100.0
+			shipAttributeCogRotationAcceleration = 0.7
+
+		#Default configs for the container of the Cog.
+		[Ship.Cog.Container]
+			#Set container size for the Cog (value must be divisible by 9 and bigger than 0).
+			shipContainerCogContainerSize = 108
+
+		#Cog specific speed modifiers.
+		[Ship.Cog.Modifier]
+			#Specify biome type for the Cog. Can be NONE, COLD, NEUTRAL, or WARM
+			#Allowed Values: NONE, COLD, NEUTRAL, WARM
+			shipModifierCogBiome = "COLD"
+
+		#Default attributes for the Brigg. Speed in km/h, Health in default mc health points
+		[Ship.Brigg.Attributes]
+			#Range: 0.0 ~ 10000.0
+			shipAttributeBriggMaxHealth = 450.0
+			#Range: 0.0 ~ 100.0
+			shipAttributeBriggMaxSpeed = 32.0
+			#Range: 0.0 ~ 100.0
+			shipAttributeBriggMaxReverseSpeed = 0.1
+			#Range: 0.0 ~ 100.0
+			shipAttributeBriggMaxRotationSpeed = 4.0
+			#Range: 0.0 ~ 100.0
+			shipAttributeBriggAcceleration = 0.015
+			#Range: 0.0 ~ 100.0
+			shipAttributeBriggRotationAcceleration = 0.55
+
+		#Default configs for the container of the Brigg.
+		[Ship.Brigg.Container]
+			#Set container size for the Brigg (value must be divisible by 9 and bigger than 0).
+			shipContainerBriggContainerSize = 162
+
+		#Brigg specific speed modifiers.
+		[Ship.Brigg.Modifier]
+			#Specify biome type for the Brigg. Can be NONE, COLD, NEUTRAL, or WARM
+			#Allowed Values: NONE, COLD, NEUTRAL, WARM
+			shipModifierBriggBiome = "COLD"
+
+		#Default attributes for the Galley. Speed in km/h, Health in default mc health points
+		[Ship.Galley.Attributes]
+			#Range: 0.0 ~ 10000.0
+			shipAttributeGalleyMaxHealth = 200.0
+			#Range: 0.0 ~ 100.0
+			shipAttributeGalleyMaxSpeed = 33.0
+			#Range: 0.0 ~ 100.0
+			shipAttributeGalleyMaxReverseSpeed = 0.1
+			#Range: 0.0 ~ 100.0
+			shipAttributeGalleyMaxRotationSpeed = 5.0
+			#Range: 0.0 ~ 100.0
+			shipAttributeGalleyAcceleration = 0.015
+			#Range: 0.0 ~ 100.0
+			shipAttributeGalleyRotationAcceleration = 1.0
+
+		#Default configs for the container of the Galley.
+		[Ship.Galley.Container]
+			#Set container size for the Galley (value must be divisible by 9 and bigger than 0).
+			shipContainerGalleyContainerSize = 72
+
+		#Galley specific speed modifiers.
+		[Ship.Galley.Modifier]
+			#Specify biome type for the Galley. Can be NONE, COLD, NEUTRAL, or WARM
+			#Allowed Values: NONE, COLD, NEUTRAL, WARM
+			shipModifierGalleyBiome = "WARM"
+
+		#Default attributes for the Drakkar. Speed in km/h, Health in default mc health points
+		[Ship.Drakkar.Attributes]
+			#Range: 0.0 ~ 10000.0
+			shipAttributeDrakkarMaxHealth = 200.0
+			#Range: 0.0 ~ 100.0
+			shipAttributeDrakkarMaxSpeed = 34.0
+			#Range: 0.0 ~ 100.0
+			shipAttributeDrakkarMaxReverseSpeed = 0.1
+			#Range: 0.0 ~ 100.0
+			shipAttributeDrakkarMaxRotationSpeed = 5.0
+			#Range: 0.0 ~ 100.0
+			shipAttributeDrakkarAcceleration = 0.015
+			#Range: 0.0 ~ 100.0
+			shipAttributeDrakkarRotationAcceleration = 1.0
+
+		#Default configs for the container of the Drakkar.
+		[Ship.Drakkar.Container]
+			#Set container size for the Drakkar (value must be divisible by 9 and bigger than 0).
+			shipContainerDrakkarContainerSize = 63
+
+		#Drakkar specific speed modifiers.
+		[Ship.Drakkar.Modifier]
+			#Specify biome type for the Drakkar. Can be NONE, COLD, NEUTRAL, or WARM
+			#Allowed Values: NONE, COLD, NEUTRAL, WARM
+			shipModifierDrakkarBiome = "COLD"
