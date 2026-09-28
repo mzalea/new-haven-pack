@@ -1,0 +1,8 @@
+[
+  {"version":2},
+  {"hide_mode":"WILDCARD","ingredient":{"type":"item_stack","id":"create:schematicannon"}},
+  {"hide_mode":"WILDCARD","ingredient":{"type":"item_stack","id":"create:schematic_table"}},
+  {"hide_mode":"WILDCARD","ingredient":{"type":"item_stack","id":"create:schematic_and_quill"}},
+  {"hide_mode":"WILDCARD","ingredient":{"type":"item_stack","id":"create:empty_schematic"}},
+  {"hide_mode":"WILDCARD","ingredient":{"type":"item_stack","id":"create:schematic"}}
+]
