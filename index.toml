@@ -6,7 +6,7 @@ hash = "e360911dd4602b9fa63190e3a0a56e3ed037fc178fb8a28a2894354731831f25"
 
 [[files]]
 file = "config/defaultoptions-common.toml"
-hash = "ac3bca10377f4eed0bef89704f7f133ef7381bff6b5c516d746942929bfc542e"
+hash = "89c5fac6c20ecadd8d9b2199a27b8f0439c8120f8954d05f5677d4bd1cfa205b"
 
 [[files]]
 file = "config/defaultoptions/extra/config/plasmovoice/client/config.toml"
@@ -39,6 +39,10 @@ hash = "07f62821d2eb2b84e01d2b4c27e1dbccfcba42b04702875962eb9b0f9cfb7366"
 [[files]]
 file = "config/jei/blacklist.json"
 hash = "86172455d0d1d5bf24faa1057e96f82a05cc738487a7ddcdc4e16524963551fa"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "689f73f9fab4e831dff286a126e4c7fb8a0587cd1220e9284235891cefc8f8f3"
 
 [[files]]
 file = "config/plasmovoice/client.toml"
@@ -262,9 +266,8 @@ hash = "5c3c3dce1d331a31e67bbc826b0cdaf6db79723cd4739728ff274f4f0b712fe2"
 metafile = true
 
 [[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "276da3b2d9f2566484467c3654df5e963b64a56f96a130fd5af88b1413dca65c"
-metafile = true
+file = "mods/dynamictrees-neoforge-1.21.1-1.7.2-nh3.jar"
+hash = "ee8328a2f9522e1fbadb0e18b5b13d29e8917b23c331f06ba88138b647d834b6"
 
 [[files]]
 file = "mods/dynamictreesplus.pw.toml"
@@ -439,6 +442,11 @@ hash = "14fc787461cc4464d476454c0d06b7ecbc988e5582d51d527a43a450be9de92d"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "f32f944f62c4ea97b2d1f8582bb5f1a0adf7f62983b35f75288e27025365d7d0"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "f1363fb2ffcc4f617935af07f94a611adaa5d1e40cffdf303e9a546740a7411d"
 metafile = true
@@ -449,7 +457,7 @@ hash = "19558e59a7361de30271006484b3d751de25796ca2f361b61167940d03ab30ed"
 
 [[files]]
 file = "mods/newhaven-core-0.1.0.jar"
-hash = "a38e81a50ae9553c1e96b5f13408afb1be7a816a328acfb08294ec58d355a405"
+hash = "0dd120b44364a53eaf82676a5ea6a0aea9eb71d13e78430542c9d8c516fd5a3e"
 
 [[files]]
 file = "mods/newhaven-inventory-0.1.0.jar"
@@ -457,7 +465,7 @@ hash = "aec550d44ab4b122fe276acd3de4d03f4ee2ff9d823095efb9125e049074fbb6"
 
 [[files]]
 file = "mods/newhaven-trees-1.0.0.jar"
-hash = "8175f84258801632ffa3d3b735f60795e0fc9e57a36912422989e0cf224f4802"
+hash = "547e9d7fb283d5218a1fe2e233415150e82d6e761b027790463b13fe2acde398"
 
 [[files]]
 file = "mods/newhaven-villagers-0.1.0.jar"
@@ -690,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "9854b699d5a067c46ac99b1dedeeb529bff3fc18dd079e29b438c4cbf9725f68"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "c26f8da8b6f013fb7e917e29fc6ae783eb379c539da12d9d61196bc762fd26e1"
 metafile = true
 
 [[files]]

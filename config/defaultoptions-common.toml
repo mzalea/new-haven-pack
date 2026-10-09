@@ -1,2 +1,2 @@
 # Default Options applies this once per profile and records resource-packs in its journal.
-defaultResourcePacks = ["file/newhaven-client-fixes"]
+defaultResourcePacks = ["file/newhaven-client-fixes", "file/Better-Leaves-9.6.zip"]
