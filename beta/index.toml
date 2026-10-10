@@ -348,6 +348,11 @@ hash = "1e5b320ad839b14df9754644d36a10bc745bf165da797b9b195136ee6b1f06a7"
 metafile = true
 
 [[files]]
+file = "mods/horse-combat-controls.pw.toml"
+hash = "c288ece48f889cb326976e62165305db0cf509dc652aa95fb0c7c658837b207d"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2863a3b187723e1f69ed2ad2b2c3d834e8442468a1347c80df5b310e243c8753"
 metafile = true
