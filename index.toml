@@ -432,6 +432,11 @@ hash = "643d332b262b72f86f806cc1410b4354803a07b6012c1210f06d2ca231cccd30"
 metafile = true
 
 [[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "b5f1c37740051774214d8dd035df9bac68ddd4d8c71ed8949fdaabd5949829de"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
@@ -704,6 +709,146 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "9854b699d5a067c46ac99b1dedeeb529bff3fc18dd079e29b438c4cbf9725f68"
 metafile = true
+
+[[files]]
+file = "news/trees/img/biome-map.jpg"
+hash = "8f16036016154d23f90f0a31c9228f8530ef78dd1a2c1ee86d90734fba17f0ab"
+
+[[files]]
+file = "news/trees/img/birch_forest-air-after.jpg"
+hash = "f1ae8ff3ebcbc324638d56ebb8b43fca323fdc59cf1a576a6383d1668d33a7dc"
+
+[[files]]
+file = "news/trees/img/birch_forest-air-before.jpg"
+hash = "f6e218a566d5671f974828335ef7f395f1d03f5bc0418a9b7f242ca4c6ce5354"
+
+[[files]]
+file = "news/trees/img/cold_taiga-air-after.jpg"
+hash = "0644a775cf4b2bca8abf36e4b461c2c3d1e545fa8b1b748fe03bf43dd0928ec2"
+
+[[files]]
+file = "news/trees/img/cold_taiga-air-before.jpg"
+hash = "74b36543990570907200a0ae8de53bf86059fbdfaa66a093957a158ca7367439"
+
+[[files]]
+file = "news/trees/img/cold_taiga-eye-after.jpg"
+hash = "85511e3ba5c4801482f225cdf1157acf86f54e155b3aa1f552f01f378f5a63ea"
+
+[[files]]
+file = "news/trees/img/cold_taiga-eye-before.jpg"
+hash = "b98fa5b0f871907abdab061cc5105588195e82b379e96847950d4bf7feec9d4c"
+
+[[files]]
+file = "news/trees/img/detail-ages.jpg"
+hash = "9a800963209db01c3dbf715848c72f398314aa3ed2a20e4ef8f5ced4c9cd75c7"
+
+[[files]]
+file = "news/trees/img/detail-jade.jpg"
+hash = "2208425cf1ce9e675f1cb73e5f13dc47761b93655ed76c77393727196716acaa"
+
+[[files]]
+file = "news/trees/img/detail-leaves.jpg"
+hash = "13f04e53c77e4eb96f8ab7e2f12d03368229e4d8eb6939ea8eff6d18869bab5e"
+
+[[files]]
+file = "news/trees/img/detail-pads.jpg"
+hash = "e32a62b8f05165b29374816f26ebd0a066600a786f29d380f7895fb045905c39"
+
+[[files]]
+file = "news/trees/img/detail-trunk.jpg"
+hash = "cc32badbab3a602108d4645adf30f3be2f434f254eda8d179bf160a18567f30e"
+
+[[files]]
+file = "news/trees/img/evergreen_taiga-air-after.jpg"
+hash = "87657422977b2a4f442bafe2d39a8ec703983a6ff9a98e75046d47d67898748d"
+
+[[files]]
+file = "news/trees/img/evergreen_taiga-air-before.jpg"
+hash = "f7711aa30db3fca39f966a16a0d0e1156447558089ba35e1a9f77f688b178653"
+
+[[files]]
+file = "news/trees/img/making-cameras.jpg"
+hash = "ed67fbd9a333ae25285714f5576a4ea0f639189c7da150a418524b141d53d9f9"
+
+[[files]]
+file = "news/trees/img/making-fork.jpg"
+hash = "3bc5319da518bd67d85eb6596e32ed84ce0c5f77d4fde8e64492673d24d1998e"
+
+[[files]]
+file = "news/trees/img/making-growth.jpg"
+hash = "384cb43215fdbd56cee52d9cce9cf352d6d2780c7b31e0847932fefa0bc5c0dd"
+
+[[files]]
+file = "news/trees/img/making-visits.jpg"
+hash = "770a554ca63b1fadee87f5e7a9dd5e372bb58e259ce958028e31f61a17b68a6e"
+
+[[files]]
+file = "news/trees/img/old_growth_tropical_rainforest-eye-after.jpg"
+hash = "30796cc8f382ca589adbaaa8d49618afd3cd7e49735b45e13f0efe234a6b287f"
+
+[[files]]
+file = "news/trees/img/old_growth_tropical_rainforest-eye-before.jpg"
+hash = "7f017832d31476284f0f8804a99a1a89b42b335eb020211d6947693ca8f94754"
+
+[[files]]
+file = "news/trees/img/seam-border.jpg"
+hash = "9dfe7bd4c2c03396558890e4fff59b2ea0f542c3e713dadf4c3ad41344485261"
+
+[[files]]
+file = "news/trees/img/temperate_forest-air-after.jpg"
+hash = "07e5805112b41025e44772d8b52ab2982a1d9a3fcff20ed63ec9722703a8ea26"
+
+[[files]]
+file = "news/trees/img/temperate_forest-air-before.jpg"
+hash = "de3d83991d9fd2f4f58c22edc388fd636c4f4922a1fa577ab2aeccd849f81092"
+
+[[files]]
+file = "news/trees/img/tree-acacia.jpg"
+hash = "5ccda911b25d22fe1e89fd06398b89c6fba4180c6c3b67f9081cbca115fd184c"
+
+[[files]]
+file = "news/trees/img/tree-baobab.jpg"
+hash = "75cf0a59d8f1d0155f80dc497fa9ef21828c0908a4fb3173340570993be15401"
+
+[[files]]
+file = "news/trees/img/tree-beech.jpg"
+hash = "71f62fa2ffa1b204f3d947aeaf9ac2e453f43cec21ddf5f313d8cb68cd7a69b4"
+
+[[files]]
+file = "news/trees/img/tree-cypress.jpg"
+hash = "d9fa00020130f97654b9618e74302c3e233b9ef89ff0a39efbe6f65b418a792d"
+
+[[files]]
+file = "news/trees/img/tree-holm_oak.jpg"
+hash = "33b727c4298182fddf5819e637370823d62384b9417e1c04b7328373f093ff77"
+
+[[files]]
+file = "news/trees/img/tree-marula.jpg"
+hash = "c29b0f211b42fe53ab68825a9da463211b37c2ba5d7ef439097ad3af3b2cadce"
+
+[[files]]
+file = "news/trees/img/tree-mega_jungle.jpg"
+hash = "090864bc511cf4f3c2f3abcfd6c7c580dcc84b88954392ea63a82f3ed299609f"
+
+[[files]]
+file = "news/trees/img/tree-oak_forest.jpg"
+hash = "0ab0e9a19b2f404a5f8c0251741f5b8d107bd6280e14bd37b5b2300134e9d17e"
+
+[[files]]
+file = "news/trees/img/tree-spruce.jpg"
+hash = "59d17e1f92afe9b6fe348af2160e7b9c5113017bd137d32439f0e0d7477d0e64"
+
+[[files]]
+file = "news/trees/img/wooded_tundra-air-after.jpg"
+hash = "14e2856a85db9cec52a69f9924e6774d2c3e5895b6b7e28e0d1913a519b70666"
+
+[[files]]
+file = "news/trees/img/wooded_tundra-air-before.jpg"
+hash = "674d63b3774257a6630865440c10e4af3542680dd3323543275adb4dffe04c80"
+
+[[files]]
+file = "news/trees/index.html"
+hash = "2c85f74daf2845a57e760c301da38fe9fb5c6629d4043e492b43b2f629b98178"
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
