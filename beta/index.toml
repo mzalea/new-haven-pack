@@ -432,6 +432,11 @@ hash = "643d332b262b72f86f806cc1410b4354803a07b6012c1210f06d2ca231cccd30"
 metafile = true
 
 [[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "b5f1c37740051774214d8dd035df9bac68ddd4d8c71ed8949fdaabd5949829de"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
