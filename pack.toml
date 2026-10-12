@@ -1,12 +1,12 @@
 name = "New Haven"
 author = "SirZalea"
-version = "0.4.0-midsummer.17"
+version = "0.4.0-midsummer.20"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "55ad1a840d6b614cf886294d0da40dd258e50e39fb2c4adbf6c9c69169392cbe"
+hash = "e9a74f431af82eea97cf053b256bdb51c0a7fb89ae7083234219fa350b11998c"
 
 [versions]
 minecraft = "1.21.1"
