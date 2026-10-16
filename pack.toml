@@ -1,12 +1,12 @@
-name = "New Haven"
+name = "New Haven (Beta — JEI tree names)"
 author = "SirZalea"
-version = "0.4.0-midsummer.22"
+version = "0.4.0-midsummer.23"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b65f02ef6bfbbf3ff91d25aa38c8d374962c1bdad2aa068c51ddf58324561d2f"
+hash = "a2f86a3ca8e93eac47bc161b9bb02f84c6bd3403a6da25cd84f59c44cc022b9f"
 
 [versions]
 minecraft = "1.21.1"
