@@ -1,0 +1,13 @@
+name = "New Haven (Beta — JEI tree names)"
+author = "SirZalea"
+version = "0.4.0-midsummer.26"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d88511b35e52f225b4fa1639e8145aac0314796b39851c0c0d66f578a5ad1b30"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.235"
